@@ -1,0 +1,10 @@
+transformers[torch]
+datasets
+sentencepiece
+spacy
+textstat
+requests
+fpdf2
+evaluate
+numpy
+rouge_score

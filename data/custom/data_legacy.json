@@ -1,0 +1,1002 @@
+[
+  { "input": "L'usage de la carte bancaire est subordonné à la composition d'un code secret.", "output": "Utilisez votre carte avec votre code secret." },
+  { "input": "Veuillez compulser la notice d'utilisation avant la mise en service de l'appareil.", "output": "Lisez le manuel avant d'allumer la machine." },
+  { "input": "Le locataire est tenu d'entretenir les locaux conformément au bail signé.", "output": "Vous devez garder votre appartement propre." },
+  { "input": "L'omission de cette mention entraîne la nullité immédiate de votre contrat.", "output": "Si vous oubliez d'écrire cela, le contrat n'est plus bon." },
+  { "input": "Il est préconisé de s'hydrater régulièrement en période de forte chaleur.", "output": "Buvez beaucoup d'eau quand il fait chaud." },
+  { "input": "La résiliation de l'abonnement s'effectue par l'envoi d'un courrier recommandé.", "output": "Envoyez une lettre à la Poste pour arrêter votre abonnement." },
+  { "input": "Toute infraction au code de la route est passible d'une amende forfaitaire.", "output": "Si vous faites une faute en voiture, vous devez payer de l'argent." },
+  { "input": "Le médecin procède à une auscultation approfondie pour établir son diagnostic.", "output": "Le docteur vous examine pour savoir si vous êtes malade." },
+  { "input": "Veuillez insérer vos identifiants de connexion dans les champs appropriés.", "output": "Écrivez votre nom et votre mot de passe dans les cases." },
+  { "input": "La date de péremption est dépassée, ce produit est donc impropre à la consommation.", "output": "Le produit est trop vieux. Ne le mangez pas." },
+  { "input": "L'accès à cette zone est strictement prohibé au public pour des raisons de sécurité.", "output": "Vous ne pouvez pas entrer ici. C'est dangereux." },
+  { "input": "Le scrutin électoral permet de désigner les représentants de la nation.", "output": "On vote pour choisir les chefs du pays." },
+  { "input": "Il convient de vérifier l'exactitude des informations mentionnées sur votre bulletin de paie.", "output": "Regardez bien votre papier d'argent. Vérifiez s'il y a des erreurs." },
+  { "input": "La connexion Wi-fi nécessite une authentification via une clé de sécurité.", "output": "Mettez le code secret pour avoir Internet." },
+  { "input": "Les effets secondaires du médicament incluent parfois une somnolence accrue.", "output": "Le médicament peut vous donner envie de dormir." },
+  { "input": "Le recyclage des déchets contribue à la préservation de l'environnement.", "output": "Triez vos poubelles pour protéger la nature." },
+  { "input": "Un justificatif d'identité en cours de validité est requis pour cette démarche.", "output": "Montrez votre carte d'identité. Elle ne doit pas être périmée." },
+  { "input": "L'employeur doit garantir l'intégrité physique de ses collaborateurs.", "output": "Le patron doit faire attention à votre sécurité au travail." },
+  { "input": "Veuillez patienter, un conseiller va prendre en charge votre requête incessamment.", "output": "Attendez un peu. Une personne va vous aider bientôt." },
+  { "input": "Le téléchargement de fichiers volumineux peut ralentir votre débit internet.", "output": "Si vous prenez de gros dossiers, Internet va moins vite." },
+  { "input": "L'usage excessif des écrans nuit à la qualité du sommeil des enfants.", "output": "Regarder trop la télé empêche les enfants de bien dormir." },
+  { "input": "Le port du casque est obligatoire pour circuler à bord d'un deux-roues motorisé.", "output": "Mettez un casque quand vous faites de la moto." },
+  { "input": "Votre demande a été traitée favorablement par les services compétents.", "output": "L'administration a dit oui à votre demande." },
+  { "input": "Les conditions météorologiques défavorables entraînent des perturbations sur le réseau.", "output": "Il y a du mauvais temps. Les trains ou les bus ont du retard." },
+  { "input": "Il est impératif de valider son titre de transport avant d'accéder au quai.", "output": "Compostez votre ticket avant de monter dans le train." },
+  { "input": "Le bénéficiaire doit signaler tout changement de situation familiale sans délai.", "output": "Dites vite à la mairie si vous vous mariez ou si vous avez un enfant." },
+  { "input": "La cuisson à haute température peut altérer les propriétés nutritionnelles des aliments.", "output": "Si le feu est trop fort, la nourriture est moins bonne pour la santé." },
+  { "input": "Une maintenance technique est en cours, le site est momentanément indisponible.", "output": "On répare le site internet. Il ne marche pas pour l'instant." },
+  { "input": "L'adhésion à l'association est soumise au paiement d'une cotisation annuelle.", "output": "Payez un peu d'argent chaque année pour être dans le club." },
+  { "input": "Veuillez vider le cache de votre navigateur pour optimiser les performances.", "output": "Nettoyez votre ordinateur pour qu'il marche mieux." },
+  { "input": "L'ascenseur est momentanément hors service pour cause de maintenance préventive.", "output": "L'ascenseur ne marche pas. On le répare." },
+  { "input": "Il est strictement interdit de fumer dans l'enceinte de l'établissement.", "output": "Il ne faut pas fumer dans le bâtiment." },
+  { "input": "Veuillez attacher votre ceinture de sécurité dès que vous êtes assis.", "output": "Mettez votre ceinture quand vous êtes assis." },
+  { "input": "La présentation d'un pass sanitaire est exigée à l'entrée du musée.", "output": "Montrez votre papier de santé pour entrer." },
+  { "input": "Le préavis de départ doit être signifié trois mois à l'avance au propriétaire.", "output": "Dites au propriétaire que vous partez 3 mois avant." },
+  { "input": "Une tenue correcte est exigée pour accéder à la salle de restauration.", "output": "Habillez-vous bien pour aller manger." },
+  { "input": "Veuillez signaler tout colis suspect abandonné dans la gare.", "output": "Dites-nous si vous voyez un sac tout seul." },
+  { "input": "Le paiement sans contact est limité à un montant de cinquante euros.", "output": "Vous pouvez payer jusqu'à 50 euros sans taper votre code." },
+  { "input": "L'exposition prolongée au soleil augmente les risques de brûlures cutanées.", "output": "Rester trop longtemps au soleil est dangereux pour la peau." },
+  { "input": "Veuillez éteindre votre téléphone portable durant la représentation cinématographique.", "output": "Éteignez votre téléphone pendant le film." },
+  { "input": "La distribution de prospectus est prohibée dans les boîtes aux lettres munies d'un Stop-Pub.", "output": "Ne mettez pas de publicités si c'est écrit Stop-Pub." },
+  { "input": "Il est recommandé de varier son alimentation pour rester en bonne santé.", "output": "Mangez des choses différentes pour être en forme." },
+  { "input": "Le port du masque est fortement conseillé dans les lieux clos et très fréquentés.", "output": "Mettez un masque quand il y a beaucoup de monde." },
+  { "input": "Veuillez composter votre billet avant de monter dans la voiture de train.", "output": "Validez votre ticket avant de monter dans le train." },
+  { "input": "L'accès à la piscine est réservé exclusivement aux résidents de l'hôtel.", "output": "Seuls les gens qui dorment à l'hôtel peuvent aller à la piscine." },
+  { "input": "Toute réclamation doit être adressée au service client par voie électronique.", "output": "Écrivez un mail si vous n'êtes pas content." },
+  { "input": "La consultation de ce site internet nécessite l'acceptation des cookies.", "output": "Dites oui aux cookies pour voir le site." },
+  { "input": "Il est indispensable de bien fermer les robinets pour éviter le gaspillage de l'eau.", "output": "Fermez bien l'eau pour ne pas la gâcher." },
+  { "input": "Le candidat doit se munir d'un stylo à bille noir pour remplir l'examen.", "output": "Prenez un stylo noir pour écrire." },
+  { "input": "Le franchissement de la ligne continue est une infraction grave.", "output": "Ne roulez pas sur la ligne blanche au milieu de la route." },
+  { "input": "Veuillez vous présenter à l'accueil dix minutes avant l'heure du rendez-vous.", "output": "Arrivez un peu avant votre rendez-vous." },
+  { "input": "La présence d'animaux domestiques n'est pas autorisée dans ce parc.", "output": "Les chiens et les chats ne peuvent pas entrer ici." },
+  { "input": "L'utilisation de produits inflammables à proximité d'une flamme est dangereuse.", "output": "N'utilisez pas de produits qui brûlent près du feu." },
+  { "input": "Veuillez vérifier que vous n'avez rien oublié dans le compartiment du train.", "output": "Regardez si vous avez toutes vos affaires avant de sortir." },
+  { "input": "Le montant des intérêts est calculé annuellement par votre banque.", "output": "La banque compte votre argent gagné chaque année." },
+  { "input": "L'obscurité totale est requise pour le bon développement des clichés photographiques.", "output": "Il faut qu'il fasse tout noir pour faire les photos." },
+  { "input": "Veuillez respecter les distances de sécurité avec le véhicule qui vous précède.", "output": "Ne roulez pas trop près de la voiture devant vous." },
+  { "input": "La consommation d'alcool est dangereuse pour la santé et doit être modérée.", "output": "Ne buvez pas trop d'alcool. C'est mauvais pour la santé." },
+  { "input": "L'usage du klaxon est interdit en agglomération sauf en cas de danger imminent.", "output": "Ne klaxonnez pas en ville, sauf pour éviter un accident." },
+  { "input": "Veuillez ramasser les déjections de votre chien sur la voie publique.", "output": "Ramassez les crottes de votre chien dans la rue." },
+  { "input": "Le lavage des mains à l'eau et au savon est le meilleur moyen de prévenir les maladies.", "output": "Lavez-vous les mains souvent pour ne pas être malade." },
+  { "input": "L'interruption volontaire de grossesse est un droit garanti par la loi française.", "output": "En France, les femmes ont le droit d'arrêter leur grossesse." },
+  { "input": "Veuillez ne pas obstruer les bouches d'aération pour garantir le renouvellement de l'air.", "output": "Ne bouchez pas les trous pour l'air." },
+  { "input": "La signature électronique a la même valeur juridique que la signature manuscrite.", "output": "Signer sur l'ordinateur est comme signer sur du papier." },
+  { "input": "Le tri sélectif permet de transformer les emballages usagés en nouveaux produits.", "output": "Triez vos déchets pour fabriquer de nouvelles choses." },
+  { "input": "L'excès de vitesse est l'une des principales causes d'accidents mortels.", "output": "Rouler trop vite tue des gens." },
+  { "input": "Veuillez consulter votre médecin traitant si les symptômes persistent.", "output": "Allez voir le docteur si vous avez encore mal." },
+  { "input": "La souscription à une assurance habitation est obligatoire pour tous les locataires.", "output": "Vous devez payer une assurance pour votre maison." },
+  { "input": "L'utilisation d'un casque audio à un volume élevé peut endommager l'audition.", "output": "N'écoutez pas la musique trop fort dans vos oreilles." },
+  { "input": "Veuillez ne pas jeter de lingettes dans les toilettes car cela bouche les canalisations.", "output": "Ne jetez pas de lingettes dans les toilettes." },
+  { "input": "Le télétravail permet de réduire les temps de trajet entre le domicile et le bureau.", "output": "Travailler à la maison évite de prendre la voiture." },
+  { "input": "Il est conseillé de porter des vêtements réfléchissants pour circuler la nuit à vélo.", "output": "Mettez un gilet qui brille quand vous faites du vélo la nuit." },
+  { "input": "La mise à jour du logiciel est indispensable pour corriger les failles de sécurité.", "output": "Mettez votre ordinateur à jour pour qu'il soit protégé." },
+  { "input": "L'apport personnel facilite l'obtention d'un prêt immobilier auprès de la banque.", "output": "Si vous avez un peu d'argent, la banque vous prête plus facilement." },
+  { "input": "Veuillez ne pas laisser vos enfants sans surveillance à proximité de la piscine.", "output": "Regardez toujours vos enfants quand ils sont près de l'eau." },
+  { "input": "La biodiversité désigne la diversité des espèces vivantes sur notre planète.", "output": "La biodiversité, c'est quand il y a beaucoup d'animaux et de plantes différents." },
+  { "input": "L'utilisation de sacs réutilisables permet de limiter la pollution plastique.", "output": "Utilisez des sacs que l'on garde pour moins polluer." },
+  { "input": "Le renouvellement de votre carte d'identité s'effectue à la mairie de votre domicile.", "output": "Allez à la mairie pour refaire votre carte d'identité." },
+  { "input": "Il est préférable de privilégier les produits de saison pour limiter l'impact écologique.", "output": "Mangez des fruits et légumes du moment pour protéger la nature." },
+  { "input": "Veuillez ne pas fumer sur le quai de la gare pour le confort des autres passagers.", "output": "Ne fumez pas sur le quai du train." },
+  { "input": "Il est porté à la connaissance des usagers que toute sortie est définitive.", "output": "Si vous sortez, vous ne pouvez plus rentrer." },
+  { "input": "Les délais de carence s'appliquent avant l'indemnisation par l'organisme.", "output": "Vous devez attendre avant de recevoir l'argent." },
+  { "input": "Une vérification de la concordance entre le nom et le titre est effectuée.", "output": "On vérifie si c'est bien votre nom sur le papier." },
+  { "input": "La résiliation de plein droit intervient en cas de défaut de paiement.", "output": "Si vous ne payez pas, le contrat s'arrête." },
+  { "input": "Veuillez observer une distance de sécurité minimale lors de vos déplacements.", "output": "Laissez de la place entre vous et les autres." },
+  { "input": "Les modalités d'accès font l'objet d'une réglementation stricte en vigueur.", "output": "Il y a des règles pour entrer. Il faut les suivre." },
+  { "input": "Le demandeur doit s'acquitter de la somme due auprès du guichet unique.", "output": "Payez l'argent à la caisse." },
+  { "input": "Une réponse vous sera notifiée par voie postale dans un délai de quinze jours.", "output": "Vous recevrez une lettre dans 2 semaines." },
+  { "input": "L'équipement doit être maintenu dans un état de propreté irréprochable.", "output": "L'appareil doit toujours être propre." },
+  { "input": "Le présent document constitue une preuve irréfutable de votre souscription.", "output": "Gardez ce papier. Il prouve que vous êtes inscrit." },
+  {
+    "input": "Comme mère, je refuse de laisser à mes enfants un pays livré à l'insécurité, la précarité, la fatalité. Comme femme, je refuse de voir reculer des libertés et droits que nous pensions pourtant acquis.",
+    "output": "Je suis maman. Je veux un pays tranquille pour mes enfants. Je suis une femme. Je veux un pays libre."
+  },
+  {
+    "input": "Pour pouvoir acheter plus et vivre mieux, je vais baisser le prix des énergies (le gaz, l'électricité, l'essence...), réserver des logements sociaux et donner plus d'aides sociales.",
+    "output": "Pour pouvoir acheter plus et vivre mieux, je vais baisser le prix du gaz, de l'électricité et de l'essence. Je vais réserver des logements sociaux et donner plus d'aides."
+  },
+  {
+    "input": "Le système est à bout de souffle. Un autre monde est possible. Pour tout changer, vous disposez d'un programme, « l'Avenir en commun », d'une méthode, l'Union populaire.",
+    "output": "Un autre monde est possible. Pour tout changer, nous avons un programme : c'est l'Avenir en commun."
+  },
+  {
+    "input": "Ma priorité sera de redonner du pouvoir d'achat au peuple. Dès mon élection, le SMIC sera porté à 1 400 euros net, les salaires et les pensions de retraite seront augmentés.",
+    "output": "Il faut augmenter tout de suite le salaire minimum. Il doit passer à 1 400 euros par mois. Il faut aussi augmenter les retraites."
+  },
+  {
+    "input": "Pandémie, crise climatique, inégalités, guerres, montée de l'extrême droite... Ces catastrophes sont les conséquences d'un système, le capitalisme.",
+    "output": "Pandémie, crise climatique, inégalités, guerres... Ces catastrophes sont le résultat d'un système : le capitalisme."
+  },
+  {
+    "input": "Expropriation des grandes entreprises. Les entreprises privées deviennent des propriétés collectives dirigées par le personnel. Il n'y a plus de patron.",
+    "output": "Les entreprises privées deviennent des propriétés collectives dirigées par le personnel. Il n'y a plus de patron."
+  },
+  {
+    "input": "Passer à une agriculture écologique et paysanne : sortir de l'élevage intensif, en finir avec la maltraitance animale et les pesticides.",
+    "output": "Il faut une agriculture qui respecte la nature. Il faut arrêter les grands élevages et les produits chimiques."
+  },
+  {
+    "input": "Je refuse de me résigner et veux apporter à mes compatriotes le changement qu'ils appellent de leurs vœux. Vous me connaissez. Quand d'autres ont sacrifié la France et les Français pour leur carrière, j'ai consacré ma vie à vous défendre.",
+    "output": "Je veux changer les choses pour les Français. Je consacre ma vie à vous défendre."
+  },
+  {
+    "input": "Pour améliorer le quotidien de nos aînés, je réindexerai les pensions de retraite sur l'inflation, augmenterai les petites pensions au-dessus de 1000€ et rétablirai la demi-part fiscale des veuves et des veufs.",
+    "output": "Pour aider les personnes âgées, je vais augmenter le montant des retraites."
+  },
+  {
+    "input": "Je supprimerai l'impôt sur le revenu des moins de 30 ans, soutiendrai les étudiants qui travaillent et créerai un chèque-formation mensuel de 200 à 300€ pour les apprentis et alternants.",
+    "output": "Pour les jeunes, je vais supprimer l'impôt sur le revenu et soutenir les étudiants."
+  },
+  {
+    "input": "Combattre pour l'égalité réelle entre les femmes et les hommes, refonder la démocratie en organisant la 6e République, planifier la bifurcation écologique de la production.",
+    "output": "Je veux la vraie égalité entre les femmes et les hommes. Je veux créer une nouvelle République et respecter la nature."
+  },
+  {
+    "input": "Le SMIC sera porté à 1 400 euros net, les salaires des fonctionnaires, les petites retraites et les minima sociaux seront augmentés. Le prix des produits de première nécessité sera bloqué.",
+    "output": "Le salaire minimum sera de 1 400 euros par mois. On va augmenter les retraites et limiter le prix de la nourriture."
+  },
+  {
+    "input": "Nous reconstruirons l'hôpital public. La santé n'est pas une marchandise et nos aînés méritent une vie digne. Les EHPAD seront des établissements non lucratifs.",
+    "output": "Nous allons réparer l'hôpital public. La santé est gratuite pour tous. Les maisons de retraite ne doivent pas servir à gagner de l'argent."
+  },
+  {
+    "input": "Macron, le président des riches, n'a cessé de nous attaquer. Suppression de l'ISF, répression des Gilets jaunes, gestion calamiteuse de la pandémie, offensive contre les services publics.",
+    "output": "Le président actuel a mal agi. Il a aidé les riches et il a abîmé les services publics."
+  },
+  {
+    "input": "SMIC à 1 800 euros net. Indexation des revenus sur les prix. Revenu d'autonomie pour les jeunes de 18 à 25 ans. Semaine de 32h sur quatre jours, vers les 28h.",
+    "output": "Le salaire minimum sera de 1 800 euros. Si les prix montent, les salaires montent aussi. On travaillera 32 heures par semaine."
+  },
+  {
+    "input": "Expulser les délinquants étrangers, supprimer le droit du sol et le regroupement familial, expulser les clandestins, enlever la nationalité française aux criminels binationaux.",
+    "output": "Je veux renvoyer les étrangers qui font des délits. Je veux arrêter le regroupement familial."
+  },
+  {
+    "input": "Recentrer l'enseignement primaire sur les savoirs fondamentaux (lire, écrire, compter), créer des classes de niveaux, proposer une voie professionnelle dès 14 ans.",
+    "output": "À l'école, il faut bien apprendre à lire, à écrire et à compter. Je veux créer des classes de niveau."
+  },{
+    "input": "Quand d'autres ont sacrifié la France et les Français pour leur carrière, j'ai consacré ma vie à vous défendre.",
+    "output": "Je consacre ma vie à vous défendre."
+  },
+  {
+    "input": "Je garantirai à chacun une retraite juste et digne à partir de 60 ans avec un système progressif de 40 à 42 annuités.",
+    "output": "Je veux que l'on puisse partir à la retraite à 60 ans."
+  },
+  {
+    "input": "Je mènerai une politique de patriotisme économique qui favorise les circuits courts et protège de la concurrence déloyale nos agriculteurs.",
+    "output": "Je vais protéger nos agriculteurs et favoriser les produits locaux."
+  },
+  {
+    "input": "Rejetons le poison du racisme, de l'antisémitisme, de la haine contre les musulmans. J'y ai œuvré toute ma vie.",
+    "output": "Il faut rejeter la haine et le racisme. Je me bats pour cela depuis toujours."
+  },
+  {
+    "input": "Droit au référendum d'initiative citoyenne ou le droit de révoquer un élu en cours de mandat.",
+    "output": "Les citoyens doivent pouvoir décider par vote et changer un élu s'ils ne sont pas contents."
+  },
+  {
+    "input": "Chaque étudiant et lycéen professionnel aura une « garantie d'autonomie » de 1 063 euros par mois.",
+    "output": "Les étudiants auront un revenu minimum de 1 063 euros par mois pour vivre."
+  },
+  {
+    "input": "Expropriation des grandes entreprises, à commencer par l'industrie pharmaceutique et l'énergie.",
+    "output": "Les grandes entreprises comme celles du médicament et de l'énergie appartiendront à tout le monde."
+  },
+  {
+    "input": "Annulation des lois racistes et islamophobes. Droit de vote des étrangers à toutes les élections.",
+    "output": "Je veux supprimer les lois injustes et donner le droit de vote aux étrangers qui vivent ici."
+  },
+  {
+    "input": "Application de la loi de réquisition des logements vacants pour loger ceux qui en ont besoin.",
+    "output": "Tous les logements vides doivent être utilisés pour loger les gens."
+  },
+  {
+    "input": "Réinvestir l'argent de la politique de la ville dans la rénovation des centres des villes moyennes, des bourgs et des villages.",
+    "output": "Je donnerai plus d'argent pour réparer les villages et les petites villes."
+  },
+  {
+    "input": "Sanctuariser la pratique de la chasse et de la pêche comme des éléments constitutifs de notre patrimoine culturel.",
+    "output": "Je veux protéger la chasse et la pêche car c'est notre culture."
+  },
+  {
+    "input": "Supprimer les aides sociales aux parents de délinquants mineurs et fermer les mosquées radicalisées.",
+    "output": "Je veux supprimer les aides pour les parents d'enfants qui font des bêtises graves."
+  },
+  {
+    "input": "Nous avons traversé avec une détermination sans faille des crises historiques : pandémie, retour de la guerre en Europe. Nous avons tenu bon ensemble.",
+    "output": "Nous avons vécu des moments difficiles comme la maladie du Covid ou la guerre. Nous sommes restés unis."
+  },
+  {
+    "input": "Je veux bâtir une France plus indépendante : produire plus sur notre sol pour ne plus dépendre de l'étranger pour nos besoins essentiels.",
+    "output": "Je veux que la France fabrique plus de choses elle-même. Comme cela, nous n'aurons pas besoin d'acheter tout aux autres pays."
+  },
+  {
+    "input": "Élire le président de la République est un acte décisif. Dans un monde bousculé, nous avons besoin de reprendre le contrôle de nos vies.",
+    "output": "Voter pour le président est très important. Il faut que nous puissions décider de notre vie."
+  },
+  {
+    "input": "Ma priorité est de mettre l'humain et la planète avant les profits. La France est un pays riche, capable d'assurer à chacun une vie digne.",
+    "output": "Le plus important pour moi, c'est les gens et la nature, pas l'argent. La France a assez d'argent pour que tout le monde vive bien."
+  },
+  {
+    "input": "L'urgence climatique impose une transformation radicale de notre modèle. Je serai le président qui engagera la sortie des énergies fossiles.",
+    "output": "Il y a urgence pour le climat. Je veux arrêter d'utiliser le pétrole et le gaz qui polluent la terre."
+  },
+  {
+    "input": "Nous protégerons la biodiversité et garantirons une alimentation saine et bio pour tous, notamment dans les cantines scolaires.",
+    "output": "Nous allons protéger les animaux et les plantes. À l'école, les enfants mangeront de la nourriture saine et bio."
+  },
+  {
+    "input": "Je veux une France qui protège, une France où le travail permet de vivre dignement. Je propose une augmentation massive du SMIC.",
+    "output": "Je veux une France qui aide les gens. Si on travaille, on doit gagner assez d'argent. Je veux augmenter les salaires."
+  },
+  {
+    "input": "La République est notre bien commun. Je garantirai le respect de la laïcité et l'égalité d'accès aux services publics sur tout le territoire.",
+    "output": "La République appartient à tout le monde. Je veux que chaque personne puisse aller à l'école ou à l'hôpital, peu importe où elle habite."
+  }
+ ,
+ {
+    "input": "Nous avons traversé avec une détermination sans faille des crises historiques : pandémie, retour de la guerre en Europe. Nous avons tenu bon ensemble.",
+    "output": "Nous avons vécu des moments difficiles comme la maladie du Covid ou la guerre. Nous sommes restés unis."
+  },
+  {
+    "input": "Je veux bâtir une France plus indépendante : produire plus sur notre sol pour ne plus dépendre de l'étranger pour nos besoins essentiels.",
+    "output": "Je veux que la France fabrique plus de choses elle-même. Comme cela, nous n'aurons pas besoin d'acheter tout aux autres pays."
+  },
+  {
+    "input": "Ma priorité est de mettre l'humain et la planète avant les profits. La France est un pays riche, capable d'assurer à chacun une vie digne.",
+    "output": "Le plus important pour moi, c'est les gens et la nature, pas l'argent. La France a assez d'argent pour que tout le monde vive bien."
+  },
+  {
+    "input": "Augmenter le SMIC à 1 500 € net et revaloriser tous les salaires et les pensions de retraite (minimum 1 200 € net).",
+    "output": "Je veux que le salaire minimum soit de 1 500 euros par mois. Les retraites seront de 1 200 euros minimum."
+  },
+  {
+    "input": "L'urgence climatique impose une transformation radicale de notre modèle. Je serai le président qui engagera la sortie des énergies fossiles.",
+    "output": "Il y a urgence pour le climat. Je veux arrêter d'utiliser le pétrole et le gaz qui polluent la terre."
+  },
+  {
+    "input": "Nous protégerons la biodiversité et garantirons une alimentation saine et bio pour tous, notamment dans les cantines scolaires.",
+    "output": "Nous allons protéger les animaux et les plantes. À l'école, les enfants mangeront de la nourriture saine et bio."
+  },
+  {
+    "input": "La République est notre bien commun. Je garantirai le respect de la laïcité et l'égalité d'accès aux services publics sur tout le territoire.",
+    "output": "La République appartient à tout le monde. Je veux que chaque personne puisse aller à l'école ou à l'hôpital partout en France."
+  },
+  {
+    "input": "Libérons-nous du racket fiscal : baisse de 15% de l'impôt sur le revenu, suppression de la redevance TV, baisse des taxes sur les carburants.",
+    "output": "Je veux baisser les impôts sur le revenu et le prix de l'essence. Je veux supprimer la taxe pour la télévision."
+  },
+  {
+    "input": "Revalorisation et déconjugalisation de l'Allocation Adulte Handicapé pour garantir l'autonomie de chacun.",
+    "output": "Je veux augmenter l'aide pour les personnes handicapées. Cette aide sera calculée sans compter l'argent du mari ou de la femme."
+  },
+  {
+    "input": "Établir un revenu étudiant dès 850 € par mois et garantir le permis de conduire gratuit pour les moins de 25 ans.",
+    "output": "Je veux donner 850 euros par mois aux étudiants. Le permis de conduire sera gratuit pour les jeunes."
+  },
+  
+  {
+    "input": "Le Mont Saint-Michel est au milieu d’une baie de 500 kilomètres carrés située au sud-ouest du département de la Manche en Normandie.",
+    "output": "Le Mont Saint-Michel est en Normandie. C'est un monument dans la mer."
+  },
+  {
+    "input": "Cette baie est célèbre pour ses grandes marées.",
+    "output": "Dans cet endroit, la mer bouge beaucoup."
+  },
+  {
+    "input": "En effet, les marées de cette baie sont les plus grandes marées d’Europe.",
+    "output": "Ici, l'eau de la mer monte très haut. C'est la plus haute d'Europe."
+  },
+  {
+    "input": "la mer disparait sur une dizaine de kilomètres puis revient à la vitesse d’un cheval au galop.",
+    "output": "La mer s'en va très loin. Puis la mer revient très vite."
+  },
+  {
+    "input": "Le Mont Saint-Michel fait partie des sites touristiques les plus importants en France. Il est sur la liste du Patrimoine mondial de l’UNESCO depuis 1979.",
+    "output": "Le Mont Saint-Michel est un lieu très connu en France. C'est un monument très important pour le monde entier."
+  },
+  {
+    "input": "Cette baie est célèbre pour ses grandes marées. les marées de cette baie sont les plus grandes marées d’Europe.",
+    "output": "À cet endroit, l'eau de la mer monte très haut. Ce sont les plus grandes marées d'Europe."
+  },
+  {
+    "input": "la mer disparait sur une dizaine de kilomètres puis revient à la vitesse d’un cheval au galop.",
+    "output": "La mer s'en va très loin. Puis la mer revient très vite vers le Mont."
+  },
+  {
+    "input": "L’abbaye du Mont Saint-Michel est un lieu de pèlerinage. Son architecture religieuse et militaire date de l’époque médiévale.",
+    "output": "L'abbaye est une grande église très vieille. C'est aussi un château pour faire la guerre."
+  },
+  {
+    "input": "À l’abbaye, on peut faire des visites guidées, voir des animations et assister à des concerts toute l’année.",
+    "output": "On peut visiter l'abbaye avec un guide. Il y a des spectacles et de la musique toute l'année."
+  },
+  {
+    "input": "Aux alentours du Mont Saint-Michel, il y a les plages et la vieille ville de Granville, les îles Chausay et le musée des manuscrits à Avranches.",
+    "output": "Près du Mont Saint-Michel, il y a des plages et des îles. On peut aussi visiter des musées et de vieilles villes."
+  },
+  {
+    "input": "Le Mont Saint-Michel fait partie des sites touristiques les plus importants en France. Il est sur la liste du Patrimoine mondial de l’UNESCO depuis 1979.",
+    "output": "Le Mont Saint-Michel est un lieu très célèbre en France. C'est un monument protégé très important pour le monde entier."
+  },
+  {
+    "input": "L'architecture religieuse et militaire de l'abbaye date de l'époque médiévale. On peut admirer la baie à partir de la terrasse ouest.",
+    "output": "L'abbaye est une église très ancienne. C'est aussi un château pour faire la guerre. Depuis la terrasse, on voit très bien la mer."
+  },
+  {
+    "input": "Le patient doit observer un repos strict et suivre scrupuleusement le traitement médicamenteux prescrit par le praticien.",
+    "output": "Vous devez bien vous reposer. Vous devez prendre vos médicaments comme le docteur l'a écrit."
+  },
+  {
+    "input": "Le scrutin se déroule au suffrage universel direct et permet d'élire le représentant de la nation pour un mandat de cinq ans.",
+    "output": "Tout le monde vote pour choisir le président. Le président est élu pour 5 ans."
+  },
+  {
+    "input": "Les usagers sont priés de composter leur titre de transport avant d'accéder aux quais sous peine d'une contravention.",
+    "output": "Vous devez valider votre ticket avant de monter dans le train. Si vous ne le faites pas, vous devrez payer une amende."
+  },
+  {
+    "input": "En cas d'urgence, veuillez contacter le numéro d'assistance disponible vingt-quatre heures sur vingt-quatre et sept jours sur sept.",
+    "output": "S'il y a un grave problème, téléphonez à l'aide. Le numéro marche tout le temps, le jour et la nuit."
+  },
+
+  {
+    "input": "Le Mont Saint-Michel est sur la liste du Patrimoine mondial de l’UNESCO depuis 1979. C'est un des sites les plus importants en France.",
+    "output": "Le Mont Saint-Michel est un lieu très important. Il est connu dans le monde entier."
+  },
+  {
+    "input": "Les marées de cette baie sont les plus grandes d’Europe : la mer disparait puis revient à la vitesse d’un cheval au galop.",
+    "output": "Ici, la mer bouge beaucoup. La mer s'en va très loin. Puis la mer revient très vite."
+  },
+  {
+    "input": "L’abbaye est un lieu de pèlerinage. Son architecture religieuse et militaire date de l’époque médiévale.",
+    "output": "L'abbaye est une très vieille église. C'était aussi un château pour protéger les soldats."
+  },
+  {
+    "input": "Le droit à l'oubli numérique permet à toute personne de demander la suppression de données personnelles la concernant sur internet.",
+    "output": "Vous pouvez demander d'effacer des informations sur vous. Vous pouvez les enlever d'internet."
+  },
+  {
+    "input": "En cas de symptômes persistants comme une toux sèche ou de la fièvre, il est impératif de consulter un médecin généraliste sans délai.",
+    "output": "Si vous toussez ou si vous avez chaud, vous êtes peut-être malade. Vous devez aller voir le docteur tout de suite."
+  },
+  {
+    "input": "Le tribunal correctionnel est compétent pour juger les délits commis par des personnes majeures, comme le vol ou l'escroquerie.",
+    "output": "Le tribunal juge les adultes qui font des bêtises graves. Par exemple, si quelqu'un a volé de l'argent."
+  },
+  {
+  "input": "Le Mont Saint-Michel est situé dans une baie célèbre pour ses marées, les plus grandes d'Europe. La mer disparait sur des kilomètres puis revient très vite à la vitesse d'un cheval au galop. C'est un site classé à l'UNESCO depuis 1979.",
+  "output": "Le Mont Saint-Michel est au bord de la mer. À cet endroit, la mer s'en va très loin et revient très vite. C'est un monument très important et protégé par le monde entier."
+},
+{
+    "input": "Le système de santé français repose sur le principe de solidarité. La Sécurité sociale prend en charge une partie de vos frais médicaux, tandis que votre mutuelle peut compléter le remboursement pour limiter votre reste à charge.",
+    "output": "En France, tout le monde s'entraide pour se soigner. La Sécurité sociale paie une partie du docteur. Votre mutuelle paie le reste pour que vous n'ayez pas trop d'argent à donner."
+  },
+  {
+    "input": "Pour obtenir un renouvellement de votre titre de séjour, vous devez prendre rendez-vous en préfecture trois mois avant l'expiration du document. Il faudra apporter des justificatifs de domicile et de ressources récents.",
+    "output": "Votre carte de séjour va bientôt finir. Vous devez aller à la préfecture 3 mois avant la fin. Vous devez apporter des papiers qui montrent où vous habitez et l'argent que vous gagnez."
+  },
+  {
+    "input": "Le réchauffement climatique entraîne une hausse du niveau des mers et une multiplication des phénomènes météorologiques extrêmes. Il est crucial de réduire nos émissions de gaz à effet de serre pour protéger les générations futures.",
+    "output": "La Terre devient trop chaude. À cause de cela, le niveau de la mer monte et il y a plus de tempêtes. Nous devons moins polluer pour protéger nos enfants plus tard."
+  },
+  {
+    "input": "Lors d'un entretien d'embauche, il est conseillé de se renseigner sur l'entreprise au préalable. Préparez des réponses aux questions classiques et n'oubliez pas de soigner votre présentation ainsi que votre ponctualité.",
+    "output": "Avant d'aller chercher un travail, apprenez des choses sur l'entreprise. Préparez ce que vous allez dire. Habillez-vous bien et arrivez à l'heure au rendez-vous."
+  },
+  {
+    "input": "La loi pour la transition énergétique favorise le développement des énergies renouvelables comme le solaire ou l'éolien. L'objectif est de diminuer notre dépendance au nucléaire et aux énergies fossiles d'ici 2030.",
+    "output": "La loi veut que nous utilisions plus le soleil et le vent pour faire de l'électricité. La France veut moins utiliser le nucléaire ou le pétrole dans le futur."
+  },
+  {
+    "input": "Le droit de grève est une liberté fondamentale inscrite dans la Constitution. Toutefois, dans certains secteurs comme les transports ou la santé, un service minimum doit être assuré pour garantir la continuité des services essentiels.",
+    "output": "Tous les travailleurs ont le droit de faire grève pour dire qu'ils ne sont pas d'accord. Mais dans les hôpitaux ou les trains, des personnes doivent rester travailler pour aider les gens."
+  },
+  {
+    "input": "Les patineurs de vitesse vont très vite, parfois à 56 kilomètres par heure. Deux patinoires au Canada et aux États-Unis sont les plus rapides du monde. Cela est possible car ces patinoires sont situées en haute altitude où l'air est plus léger.",
+    "output": "Les patineurs de vitesse vont très vite. Il existe deux patinoires très rapides au Canada et aux États-Unis. Ces patinoires sont en haut des montagnes. Là-bas, l'air aide les patineurs à glisser plus vite."
+  },
+  {
+    "input": "En 2025, les athlètes ont battu de nombreux records du monde à Salt Lake City. Les scientifiques expliquent que la glace est préparée avec des méthodes spéciales pour réduire les frottements.",
+    "output": "En 2025, les sportifs ont été les plus rapides du monde à Salt Lake City. Les savants disent que c'est parce que la glace est très bien préparée. La glace glisse mieux qu'ailleurs."
+  },
+  {
+    "input": "Le record du monde de marathon a été battu grâce à des chaussures innovantes. Ces chaussures possèdent une plaque de carbone qui renvoie l'énergie à chaque foulée, permettant de courir plus longtemps sans se fatiguer.",
+    "output": "Un homme a couru très vite pendant très longtemps. Il avait des chaussures spéciales. Ces chaussures aident à courir plus vite sans être trop fatigué."
+  },
+  {
+    "input": "Les astronautes s'entraînent dans des piscines géantes pour simuler l'absence de gravité. En restant sous l'eau, ils apprennent à bouger comme s'ils étaient dans l'espace avant de partir en mission.",
+    "output": "Les astronautes vont dans des grandes piscines pour s'entraîner. Sous l'eau, c'est comme dans l'espace. Les astronautes apprennent à bouger avant de partir dans les étoiles."
+  },
+
+  {
+    "input": "Les patineurs de vitesse s'entraînent de longues années pour atteindre 56 km/h. Deux patinoires au Canada et aux États-Unis sont les plus rapides du monde. Les scientifiques expliquent cela par l'emplacement en haute altitude qui réduit les frottements de l'air.",
+    "output": "Les patineurs de vitesse vont très vite. Il y a deux patinoires très rapides au Canada et aux États-Unis. Les savants disent que c'est parce que les patinoires sont en haut des montagnes. Là-bas, l'air aide à glisser plus vite."
+  },
+  {
+    "input": "Le télétravail s'est généralisé dans de nombreuses entreprises. Cette organisation permet aux salariés de mieux concilier vie professionnelle et vie privée, tout en réduisant les temps de trajet quotidiens et la pollution liée aux transports.",
+    "output": "Beaucoup de gens travaillent maintenant à la maison. C'est bien pour passer plus de temps avec la famille. On perd aussi moins de temps dans les transports et on pollue moins la nature."
+  },
+  {
+    "input": "La biodiversité est menacée par l'activité humaine et le changement climatique. De nombreuses espèces animales perdent leur habitat naturel. Il est donc urgent de créer des zones protégées pour empêcher leur extinction totale.",
+    "output": "Les animaux sont en danger à cause de la pollution. Beaucoup d'animaux n'ont plus d'endroit pour vivre. Il faut protéger la nature pour que les animaux ne disparaissent pas."
+  },
+  {
+    "input": "Le vote par procuration permet à un électeur absent de se faire représenter par un autre électeur le jour du scrutin. Il faut remplir un formulaire au commissariat ou au tribunal pour valider cette demande avant l'élection.",
+    "output": "Si vous ne pouvez pas aller voter, une autre personne peut voter pour vous. Pour faire cela, vous devez aller à la police ou au tribunal. Vous devez remplir un papier avant le jour du vote."
+  },
+  {
+    "input": "L'intelligence artificielle transforme de nombreux métiers en automatisant des tâches répétitives. Cela permet aux humains de se concentrer sur des missions plus créatives, mais demande aussi d'apprendre de nouvelles compétences numériques.",
+    "output": "Les ordinateurs font maintenant le travail fatigant à la place des hommes. Les gens peuvent faire des choses plus intéressantes. Mais il faut apprendre à utiliser les nouveaux outils informatiques."
+  },
+  {
+    "input": "En cas d'incendie, il ne faut jamais utiliser l'ascenseur car il risque de s'arrêter en cas de coupure de courant. Utilisez les escaliers de secours et suivez les panneaux lumineux pour sortir du bâtiment en restant calme.",
+    "output": "S'il y a un feu, ne prenez pas l'ascenseur. L'ascenseur peut s'arrêter s'il n'y a plus d'électricité. Prenez les escaliers. Suivez les panneaux pour sortir sans courir."
+  },
+  {
+    "input": "Le sommeil est essentiel pour la mémoire et la santé mentale. Une nuit de huit heures permet au cerveau de trier les informations reçues dans la journée. À l'inverse, le manque de sommeil augmente le stress et la fatigue.",
+    "output": "Il faut bien dormir pour être en bonne santé. Quand on dort, le cerveau range les informations de la journée. Si on ne dort pas assez, on est fatigué et stressé."
+  },
+
+  {
+    "input": "Pour renouveler votre carte nationale d'identité, vous devez vous présenter en mairie muni d'un justificatif de domicile de moins de trois mois et de deux photographies d'identité conformes aux normes en vigueur.",
+    "output": "Vous voulez une nouvelle carte d'identité. Vous devez aller à la mairie. Vous devez apporter un papier pour votre adresse. Vous devez apporter 2 photos de vous."
+  },
+  {
+    "input": "Une hygiène bucco-dentaire rigoureuse, impliquant un brossage biquotidien de deux minutes, prévient l'apparition de caries et de maladies parodontales en éliminant la plaque dentaire.",
+    "output": "Il faut se brosser les dents. Il faut le faire 2 fois par jour. Il faut brosser pendant 2 minutes. Cela évite d'avoir mal aux dents."
+  },
+  {
+    "input": "Le musée du Louvre, situé au cœur de Paris, abrite des milliers d'œuvres d'art inestimables, dont la célèbre Joconde de Léonard de Vinci, attirant des millions de visiteurs chaque année.",
+    "output": "Le musée du Louvre est à Paris. Il y a beaucoup de tableaux et de statues. On peut voir la Joconde. C'est un tableau très célèbre."
+  },
+  {
+    "input": "Afin de limiter le gaspillage alimentaire et de maîtriser son budget, il est conseillé d'établir une liste de courses précise avant de se rendre au supermarché et de privilégier les produits de saison.",
+    "output": "Avant d'aller au magasin, écrivez une liste. Achetez seulement ce qu'il y a sur la liste. Achetez des fruits et des légumes de la saison. C'est bon pour votre argent."
+  },
+  {
+    "input": "La sécurité de vos données personnelles repose sur l'utilisation d'un mot de passe complexe, associant lettres minuscules, majuscules, chiffres et caractères spéciaux, qu'il convient de ne jamais divulguer à un tiers.",
+    "output": "Vous devez protéger votre ordinateur. Utilisez un mot de passe difficile. Mettez des lettres et des chiffres. Ne donnez jamais votre mot de passe à personne."
+  },
+  {
+    "input": "Le tri sélectif des déchets permet de recycler les matériaux comme le verre ou le carton, contribuant ainsi à la préservation des ressources naturelles et à la réduction de la pollution atmosphérique.",
+    "output": "Il faut trier les déchets. Mettez le verre et le carton dans des poubelles spéciales. Cela permet de fabriquer de nouveaux objets. C'est bien pour la nature."
+  },
+  {
+    "input": "Avant d'accéder aux quais de la gare, tout voyageur doit impérativement composter son titre de transport papier sous peine de se voir infliger une amende par les agents de contrôle.",
+    "output": "Vous prenez le train. Vous avez un billet en papier. Vous devez mettre votre billet dans la machine jaune. Si vous ne le faites pas, vous devrez payer une amende."
+  },
+  {
+    "input": "Lors d'un entretien de recrutement, il est essentiel d'arriver ponctuellement et de présenter son parcours professionnel de manière concise afin de démontrer son adéquation avec le poste proposé.",
+    "output": "Vous avez un rendez-vous pour un travail. Arrivez à l'heure exacte. Expliquez ce que vous savez faire. Montrez que vous êtes motivé pour ce travail."
+  },
+  {
+    "input": "Sous l'effet de la chaleur solaire, l'eau des océans s'évapore pour former des nuages qui, en se refroidissant, libèrent des précipitations alimentant les cours d'eau et les nappes phréatiques.",
+    "output": "Le soleil chauffe l'eau de la mer. L'eau monte dans le ciel et forme des nuages. Puis, la pluie tombe. La pluie remplit les rivières."
+  },
+  {
+    "input": "Le bail locatif engage le locataire à verser un loyer mensuel à date fixe et à maintenir le logement en bon état de propreté et de réparations locatives durant toute la durée de l'occupation.",
+    "output": "Vous louez un appartement. Vous signez un papier. Vous devez payer le loyer tous les mois. Vous devez garder l'appartement propre."
+  },
+  {
+    "input": "En cas de litige relatif à l'exécution du présent contrat, les parties s'engagent à tenter une médiation avant de saisir la juridiction compétente.",
+    "output": "Si vous avez un désaccord sur ce contrat, vous devez essayer de discuter. Vous devez chercher une solution ensemble. Si vous n'êtes pas d'accord, vous pouvez aller au tribunal."
+  },
+  {
+    "input": "Le prévenu bénéficie de la présomption d'innocence jusqu'à ce que sa culpabilité soit légalement établie par un tribunal indépendant et impartial.",
+    "output": "Une personne est soupçonnée d'avoir fait une faute. On doit penser qu'elle n'a rien fait de mal. C'est le juge qui décide si elle est coupable ou non."
+  },
+  {
+    "input": "La mise à jour du système d'exploitation est impérative pour corriger les failles de sécurité et garantir l'intégrité de vos fichiers numériques.",
+    "output": "Vous devez mettre à jour votre ordinateur. Cela répare les erreurs. Cela protège vos documents contre les voleurs sur internet."
+  },
+  {
+    "input": "L'usage excessif des réseaux sociaux peut engendrer des troubles du sommeil et une altération de la concentration chez les jeunes utilisateurs.",
+    "output": "Passer trop de temps sur internet est mauvais. On peut avoir du mal à dormir. On peut avoir du mal à rester attentif à l'école."
+  },
+  {
+    "input": "Toute personne physique dispose d'un droit d'accès, de rectification et de suppression des données à caractère personnel la concernant.",
+    "output": "Vous avez le droit de savoir ce qu'on écrit sur vous. Vous pouvez demander de corriger une erreur. Vous pouvez demander d'effacer vos informations."
+  },
+  {
+    "input": "Le stockage dans le cloud permet de synchroniser vos documents sur plusieurs appareils via une connexion internet haut débit.",
+    "output": "Vous pouvez enregistrer vos documents sur internet. Vous pouvez les voir sur votre téléphone et votre ordinateur. Il faut internet pour que ça marche."
+  },
+  {
+    "input": "Le juge aux affaires familiales est compétent pour statuer sur les modalités de l'autorité parentale et le montant de la pension alimentaire.",
+    "output": "Le juge s'occupe des problèmes de la famille. Il décide qui garde les enfants. Il décide combien d'argent un parent donne pour aider l'autre parent."
+  },
+  {
+    "input": "L'installation d'un logiciel antivirus performant est recommandée pour détecter et neutraliser les agents malveillants avant qu'ils n'endommagent le disque dur.",
+    "output": "Mettez un programme de protection sur votre ordinateur. Ce programme trouve les virus. Il les supprime pour protéger votre machine."
+  },
+  {
+    "input": "Le harcèlement moral au travail se définit par des agissements répétés ayant pour objet ou pour effet une dégradation des conditions de vie de la victime.",
+    "output": "Le harcèlement est quand quelqu'un est méchant avec vous plusieurs fois. C'est interdit par la loi. Cela rend la personne très triste et fatiguée."
+  },
+  {
+    "input": "Le délai de rétractation de quatorze jours permet au consommateur d'annuler une commande effectuée à distance sans avoir à justifier de motif.",
+    "output": "Vous achetez un objet sur internet. Vous changez d'avis. Vous avez 14 jours pour rendre l'objet. Vous n'avez pas besoin d'expliquer pourquoi."
+  },
+  {
+    "input": "Le système solaire se compose de huit planètes qui gravitent autour du Soleil, une étoile naine jaune située au centre de notre système.",
+    "output": "Il y a 8 planètes dans l'espace. Les planètes tournent autour du Soleil. Le Soleil est une grosse étoile."
+  },
+  {
+    "input": "Pour obtenir un prêt immobilier, la banque exige généralement un apport personnel de 10% du prix d'achat et un contrat de travail stable.",
+    "output": "Vous voulez acheter une maison. Vous devez avoir de l'argent de côté. Vous devez aussi avoir un travail fixe."
+  },
+  {
+    "input": "L'usage du téléphone portable est strictement interdit dans l'enceinte des établissements scolaires afin de favoriser la concentration des élèves.",
+    "output": "Le téléphone est interdit à l'école. Les élèves doivent l'éteindre. Cela aide les élèves à mieux travailler."
+  },
+  {
+    "input": "La biodiversité marine est menacée par la pollution plastique et le réchauffement climatique qui modifie la température des océans.",
+    "output": "Les animaux de la mer sont en danger. Il y a trop de plastique dans l'eau. L'eau de la mer devient trop chaude."
+  },
+  {
+    "input": "Le suffrage universel permet à tous les citoyens majeurs de participer à la vie politique en votant lors des élections nationales.",
+    "output": "Tous les adultes peuvent voter. On vote pour choisir les chefs du pays. C'est important pour la vie de tous."
+  },
+  {
+    "input": "Les antibiotiques sont des médicaments efficaces contre les bactéries, mais ils n'ont aucune action sur les virus comme celui de la grippe.",
+    "output": "Les antibiotiques soignent les maladies causées par des bactéries. Ils ne soignent pas la grippe. La grippe est un virus."
+  },
+  {
+    "input": "La recette de la pâte à crêpes nécessite 250 grammes de farine, quatre œufs, un demi-litre de lait et une pincée de sel.",
+    "output": "Pour faire des crêpes, il faut de la farine. Il faut aussi 4 œufs et du lait. Mettez un peu de sel dans la pâte."
+  },
+  {
+    "input": "Le passage piéton est une zone protégée où les voitures doivent s'arrêter pour laisser traverser les usagers de la route les plus vulnérables.",
+    "output": "Les piétons traversent sur les bandes blanches. Les voitures doivent s'arrêter. C'est obligatoire pour la sécurité."
+  },
+  {
+    "input": "L'énergie éolienne utilise la force du vent pour produire de l'électricité de manière durable et sans émettre de gaz à effet de serre.",
+    "output": "On utilise le vent pour fabriquer de l'électricité. On utilise des grandes hélices. C'est une énergie propre pour la nature."
+  },
+  {
+    "input": "Le délai de préavis pour quitter un logement en zone tendue est réduit à un mois, contre trois mois dans les autres secteurs.",
+    "output": "Vous voulez quitter votre appartement. Dans certaines villes, vous devez prévenir 1 mois avant de partir. Ailleurs, c'est 3 mois."
+  },
+  {
+    "input": "Le triathlon est une discipline sportive enchaînant trois épreuves : la natation, le cyclisme et la course à pied, sans interruption du chronomètre.",
+    "output": "Le triathlon est un sport avec 3 activités. On nage, on fait du vélo et on court. On fait tout à la suite."
+  },
+  {
+    "input": "La foudre est une décharge électrique massive qui se produit entre les nuages et le sol lors d'un orage violent.",
+    "output": "Il y a de l'électricité dans le ciel pendant l'orage. Cela s'appelle la foudre. La foudre tombe sur le sol."
+  },
+  {
+    "input": "Le recyclage des piles usagées est primordial car elles contiennent des métaux lourds toxiques pour les sols et les nappes phréatiques.",
+    "output": "Ne jetez pas les piles à la poubelle. Mettez les piles dans des bacs spéciaux. Les piles sont dangereuses pour la terre."
+  },
+  {
+    "input": "La Joconde est protégée par une vitre blindée afin d'éviter les dégradations causées par le flash des appareils photo ou les actes de vandalisme.",
+    "output": "Le tableau de la Joconde est derrière une vitre très solide. La vitre protège le tableau. Personne ne peut l'abîmer."
+  },
+  {
+    "input": "Le télétravail permet aux salariés d'exercer leur activité professionnelle depuis leur domicile grâce aux outils de communication numériques.",
+    "output": "On peut travailler depuis sa maison. On utilise un ordinateur et internet. On n'a pas besoin d'aller au bureau."
+  },
+  {
+    "input": "Une alimentation équilibrée doit comporter des fruits, des légumes, des protéines et des féculents en proportions raisonnables.",
+    "output": "Il faut manger de tout pour être en bonne santé. Mangez des légumes et de la viande. Mangez aussi du riz ou des pâtes."
+  },
+  {
+    "input": "Le port du casque est obligatoire pour les cyclistes de moins de douze ans, qu'ils soient conducteurs ou passagers du vélo.",
+    "output": "Les enfants de moins de 12 ans doivent mettre un casque à vélo. C'est la loi. Le casque protège la tête."
+  },
+  {
+    "input": "La déclaration d'impôts doit être effectuée chaque année au printemps, soit sur papier, soit directement sur le site internet de l'administration.",
+    "output": "Chaque année, vous devez dire combien d'argent vous gagnez. Vous le faites sur internet ou sur un papier. C'est pour les impôts."
+  },
+  {
+    "input": "L'hibernation est un état de sommeil profond qui permet à certains animaux de survivre durant la période hivernale en économisant leur énergie.",
+    "output": "Certains animaux dorment tout l'hiver. Ils ne mangent pas. Cela les aide à rester en vie quand il fait très froid."
+  },
+  {
+    "input": "Le code de la route définit les règles de circulation pour assurer la sécurité de tous les usagers sur la voie publique.",
+    "output": "Il y a des règles pour conduire une voiture. Ces règles s'appellent le code de la route. C'est important pour éviter les accidents."
+  },
+  
+  { "input": "Toute demande de renouvellement doit être effectuée avant la date d'expiration du document.", "output": "Vous devez refaire votre document avant qu'il ne soit plus valable." },
+  { "input": "Les usagers doivent présenter un justificatif de domicile récent pour finaliser leur inscription.", "output": "Apportez un papier qui montre où vous habitez." },
+  { "input": "Le dossier incomplet ne pourra pas être traité par nos services.", "output": "Si vous oubliez des papiers, nous ne pouvons pas accepter votre demande." },
+  
+  { "input": "Les voyageurs sont invités à se tenir derrière la ligne jaune pour leur sécurité.", "output": "Restez derrière la ligne jaune. C'est plus sûr." },
+  { "input": "En cas de perturbation, des bus de remplacement seront mis en place.", "output": "S'il y a un problème, un bus viendra vous chercher." },
+
+  { "input": "Une alimentation trop riche en sucre augmente les risques de diabète.", "output": "Manger trop de sucre peut vous rendre malade." },
+  { "input": "Il est recommandé de pratiquer une activité physique régulière pour rester en bonne santé.", "output": "Bougez un peu chaque jour pour être en forme." },
+
+  { "input": "La pollution atmosphérique est principalement causée par les émissions industrielles et les transports.", "output": "Les usines et les voitures polluent beaucoup l'air." },
+  { "input": "La protection des zones humides est essentielle pour préserver la biodiversité.", "output": "Il faut protéger les marais. Beaucoup d'animaux y vivent." },
+
+  { "input": "Toute personne a le droit d'être assistée par un avocat durant la procédure.", "output": "Vous pouvez demander un avocat pour vous aider." },
+  { "input": "Le non-respect du règlement intérieur peut entraîner des sanctions disciplinaires.", "output": "Si vous ne suivez pas les règles, vous pouvez être puni." },
+
+  { "input": "Les élèves doivent remettre leurs devoirs à la date indiquée par l'enseignant.", "output": "Vous devez rendre vos devoirs le jour demandé." },
+  { "input": "L'utilisation du matériel pédagogique doit se faire sous la supervision d'un adulte.", "output": "Un adulte doit être là quand vous utilisez le matériel." },
+
+  { "input": "Le logement doit être aéré quotidiennement afin d'éviter l'humidité.", "output": "Ouvrez les fenêtres tous les jours pour éviter l'humidité." },
+  { "input": "Les appareils électriques doivent être débranchés avant toute manipulation.", "output": "Débranchez les appareils avant de les toucher." },
+
+  { "input": "Le salarié doit respecter les consignes de sécurité établies par l'employeur.", "output": "Vous devez suivre les règles de sécurité au travail." },
+  { "input": "Toute absence doit être justifiée par un certificat médical ou un motif valable.", "output": "Si vous manquez le travail, vous devez expliquer pourquoi." },
+
+  
+  { "input": "Les usagers doivent obligatoirement prendre rendez-vous avant de se présenter au guichet.", "output": "Prenez un rendez-vous avant de venir." },
+  { "input": "Toute modification de votre situation doit être déclarée dans un délai de trente jours.", "output": "Dites-nous si quelque chose change dans votre vie dans les 30 jours." },
+  { "input": "Le document doit être signé par toutes les parties concernées.", "output": "Tout le monde doit signer le papier." },
+
+  { "input": "Les correspondances ne sont pas garanties en cas de retard important.", "output": "Si le train est très en retard, vous pouvez rater votre autre train." },
+  { "input": "Le port du gilet de sécurité est obligatoire en cas d'arrêt d'urgence sur la route.", "output": "Si vous vous arrêtez sur la route, mettez un gilet jaune." },
+
+  { "input": "Une consommation excessive de sel peut entraîner des problèmes cardiovasculaires.", "output": "Manger trop salé est mauvais pour le cœur." },
+  { "input": "Le médecin peut prescrire un arrêt de travail si votre état le nécessite.", "output": "Le docteur peut vous donner un papier pour rester chez vous si vous êtes malade." },
+  { "input": "Les vaccins permettent de prévenir de nombreuses maladies graves.", "output": "Les vaccins vous protègent de maladies dangereuses." },
+
+  { "input": "La réduction des déchets constitue un enjeu majeur pour la planète.", "output": "Il faut faire moins de déchets pour protéger la Terre." },
+  { "input": "Les espèces menacées doivent être protégées pour éviter leur disparition.", "output": "Il faut protéger les animaux en danger pour qu'ils ne disparaissent pas." },
+
+  { "input": "Toute personne mise en cause bénéficie de la présomption d'innocence.", "output": "Si on vous accuse, vous êtes innocent tant qu'on n'a pas prouvé le contraire." },
+  { "input": "Le non-respect d'une décision de justice peut entraîner des poursuites.", "output": "Si vous ne suivez pas une décision du juge, vous pouvez avoir des problèmes." },
+
+  { "input": "Les élèves doivent respecter le règlement intérieur de l'établissement.", "output": "Les élèves doivent suivre les règles de l'école." },
+  { "input": "Les parents sont invités à participer aux réunions pédagogiques.", "output": "Les parents doivent venir aux réunions de l'école." },
+
+  { "input": "Les travaux bruyants sont interdits après 22 heures.", "output": "Ne faites pas de bruit après 22 heures." },
+  { "input": "Les animaux domestiques doivent être tenus en laisse dans les espaces publics.", "output": "Tenez votre chien en laisse dans la rue." },
+  { "input": "Il est recommandé de conserver les aliments au réfrigérateur après ouverture.", "output": "Mettez la nourriture au frigo après l'avoir ouverte." },
+
+  { "input": "Le salarié doit informer son employeur en cas d'absence imprévue.", "output": "Si vous ne pouvez pas venir travailler, dites-le à votre patron." },
+  { "input": "Les heures supplémentaires doivent être validées par la hiérarchie.", "output": "Votre patron doit dire oui avant que vous fassiez des heures en plus." },
+
+  { "input": "L'utilisation d'un mot de passe complexe est fortement recommandée pour sécuriser votre compte.", "output": "Choisissez un mot de passe difficile pour protéger votre compte." },
+  { "input": "Les mises à jour automatiques permettent de renforcer la sécurité de votre appareil.", "output": "Laissez votre appareil se mettre à jour pour qu'il soit protégé." },
+
+  { "input": "Les frais bancaires seront prélevés automatiquement sur votre compte.", "output": "La banque prendra l'argent directement sur votre compte." },
+  { "input": "Un relevé détaillé vous sera envoyé chaque mois.", "output": "Vous recevrez un papier chaque mois avec les détails." },
+
+  { "input": "Le propriétaire doit garantir un logement décent et conforme aux normes.", "output": "Le propriétaire doit vous donner un logement propre et sûr." },
+  { "input": "Toute réparation importante doit être signalée au bailleur.", "output": "Dites au propriétaire si quelque chose est cassé." },
+
+  { "input": "L'accès au spectacle nécessite la présentation d'un billet valide.", "output": "Montrez votre billet pour entrer au spectacle." },
+  { "input": "Les photos sont interdites pendant la représentation.", "output": "Ne prenez pas de photos pendant le spectacle." },
+
+  
+  { "input": "Les usagers doivent conserver une copie de leurs documents administratifs pour toute vérification ultérieure.", "output": "Gardez une copie de vos papiers au cas où on vous les demande." },
+  { "input": "La demande doit être déposée en ligne via le portail officiel du gouvernement.", "output": "Faites votre demande sur le site internet du gouvernement." },
+  { "input": "Les inscriptions seront closes dès que le nombre maximal de participants sera atteint.", "output": "Quand il y a trop de monde, on ne peut plus s'inscrire." },
+  { "input": "Le service client vous recontactera dans les plus brefs délais.", "output": "Le service client vous répondra bientôt." },
+  { "input": "Les informations fournies doivent être exactes et à jour.", "output": "Écrivez des informations vraies et récentes." },
+
+  { "input": "Les voyageurs doivent présenter un titre de transport valide lors du contrôle.", "output": "Montrez votre ticket quand on vous le demande." },
+  { "input": "Les travaux sur la ligne entraîneront une interruption temporaire du trafic.", "output": "À cause des travaux, les trains ne circuleront pas pendant un moment." },
+  { "input": "Les vélos ne sont autorisés dans le train qu'en dehors des heures de pointe.", "output": "Vous pouvez prendre votre vélo dans le train, mais pas quand il y a trop de monde." },
+  { "input": "Les passagers doivent signaler immédiatement tout incident au personnel.", "output": "Dites au personnel s'il y a un problème." },
+  { "input": "Les bagages ne doivent pas gêner la circulation dans les couloirs.", "output": "Ne mettez pas vos valises dans le passage." },
+
+  { "input": "Une consommation excessive de caféine peut provoquer des troubles du sommeil.", "output": "Boire trop de café peut empêcher de dormir." },
+  { "input": "Les médicaments doivent être conservés hors de portée des enfants.", "output": "Rangez les médicaments pour que les enfants ne les touchent pas." },
+  { "input": "Une activité physique régulière réduit les risques de maladies chroniques.", "output": "Bougez souvent pour rester en bonne santé." },
+  { "input": "Les symptômes doivent être surveillés attentivement en cas de fièvre persistante.", "output": "Si vous avez de la fièvre longtemps, surveillez bien votre état." },
+  { "input": "Une alimentation équilibrée contribue au bon fonctionnement du corps.", "output": "Mangez varié pour être en forme." },
+
+  { "input": "La protection des océans est essentielle pour préserver les écosystèmes marins.", "output": "Il faut protéger la mer pour protéger les animaux qui y vivent." },
+  { "input": "La réduction des émissions de gaz à effet de serre est une priorité mondiale.", "output": "Il faut moins polluer pour protéger la planète." },
+  { "input": "Le tri des déchets permet de limiter l'impact environnemental.", "output": "Triez vos déchets pour moins polluer." },
+  { "input": "Les forêts jouent un rôle crucial dans la régulation du climat.", "output": "Les forêts aident à garder un climat stable." },
+  { "input": "La consommation d'eau doit être maîtrisée pour éviter le gaspillage.", "output": "Ne gaspillez pas l'eau." },
+
+  { "input": "Toute personne a le droit d'accéder à ses données personnelles.", "output": "Vous pouvez demander les informations que l'administration a sur vous." },
+  { "input": "Le non-respect des règles peut entraîner des sanctions administratives.", "output": "Si vous ne suivez pas les règles, vous pouvez être puni." },
+  { "input": "Les décisions doivent être notifiées par écrit aux personnes concernées.", "output": "Vous recevrez une lettre pour vous expliquer la décision." },
+  { "input": "Les audiences publiques sont ouvertes à toute personne intéressée.", "output": "Tout le monde peut venir écouter l'audience." },
+  { "input": "Les documents doivent être fournis dans les délais impartis.", "output": "Donnez les papiers avant la date limite." },
+
+  { "input": "Les élèves doivent apporter leur matériel scolaire chaque jour.", "output": "Les élèves doivent venir avec leurs affaires." },
+  { "input": "Les sorties scolaires nécessitent une autorisation parentale.", "output": "Les parents doivent signer pour que les enfants sortent avec l'école." },
+  { "input": "Les enseignants assurent le suivi pédagogique des élèves.", "output": "Les professeurs aident les élèves à apprendre." },
+  { "input": "Les examens doivent être passés dans le calme et la concentration.", "output": "Pendant les examens, il faut être calme et concentré." },
+  { "input": "Les absences répétées peuvent nuire à la réussite scolaire.", "output": "Manquer souvent l'école peut faire baisser les résultats." },
+
+  { "input": "Les habitants doivent respecter les règles de vie en communauté.", "output": "Respectez les autres personnes autour de vous." },
+  { "input": "Les animaux doivent être identifiés conformément à la réglementation.", "output": "Votre animal doit avoir une puce ou un tatouage." },
+  { "input": "Les nuisances sonores sont interdites durant la nuit.", "output": "Ne faites pas de bruit la nuit." },
+  { "input": "Les encombrants doivent être déposés aux jours prévus par la mairie.", "output": "Mettez les gros objets dehors seulement le jour prévu." },
+  { "input": "Les espaces verts doivent être respectés par tous les usagers.", "output": "Ne dégradez pas les parcs et les jardins." },
+
+  { "input": "Les salariés doivent respecter les horaires de travail établis.", "output": "Arrivez à l'heure au travail." },
+  { "input": "Les pauses doivent être prises dans les zones prévues à cet effet.", "output": "Faites vos pauses dans les endroits autorisés." },
+  { "input": "Les consignes de sécurité doivent être appliquées en permanence.", "output": "Suivez toujours les règles de sécurité." },
+  { "input": "Les formations obligatoires doivent être suivies par tous les employés.", "output": "Vous devez participer aux formations obligatoires." },
+  { "input": "Les conflits doivent être signalés à la hiérarchie.", "output": "Dites à votre chef s'il y a un problème." },
+
+  { "input": "Les utilisateurs doivent protéger leurs informations personnelles en ligne.", "output": "Faites attention à vos informations sur Internet." },
+  { "input": "Les fichiers téléchargés doivent provenir de sources fiables.", "output": "Téléchargez seulement des fichiers sûrs." },
+  { "input": "Les appareils doivent être verrouillés lorsqu'ils ne sont pas utilisés.", "output": "Verrouillez votre ordinateur quand vous ne l'utilisez pas." },
+  { "input": "Les réseaux Wi-Fi publics peuvent présenter des risques de sécurité.", "output": "Les Wi-Fi publics peuvent être dangereux pour vos données." },
+  { "input": "Les sauvegardes régulières permettent d'éviter la perte de données.", "output": "Sauvegardez vos fichiers pour ne pas les perdre." },
+
+  { "input": "Les factures doivent être réglées avant la date d'échéance.", "output": "Payez vos factures avant la date limite." },
+  { "input": "Les paiements en plusieurs fois peuvent entraîner des frais supplémentaires.", "output": "Payer en plusieurs fois peut coûter plus cher." },
+  { "input": "Les relevés bancaires doivent être vérifiés régulièrement.", "output": "Regardez souvent vos relevés de banque." },
+  { "input": "Les prêts doivent être remboursés selon les modalités prévues.", "output": "Remboursez votre prêt comme prévu dans le contrat." },
+  { "input": "Les opérations suspectes doivent être signalées à la banque.", "output": "Dites à la banque si vous voyez quelque chose d'étrange." },
+
+  { "input": "Les locataires doivent entretenir leur logement correctement.", "output": "Prenez soin de votre appartement." },
+  { "input": "Les réparations urgentes doivent être effectuées rapidement.", "output": "Réparez vite ce qui est dangereux." },
+  { "input": "Les charges doivent être payées chaque mois.", "output": "Payez les charges tous les mois." },
+  { "input": "Les parties communes doivent rester propres et accessibles.", "output": "Gardez les couloirs et escaliers propres." },
+  { "input": "Les travaux dans le logement doivent être autorisés par le propriétaire.", "output": "Demandez au propriétaire avant de faire des travaux." },
+
+  { "input": "Les visiteurs doivent respecter les consignes du musée.", "output": "Suivez les règles du musée." },
+  { "input": "Les objets fragiles ne doivent pas être touchés.", "output": "Ne touchez pas les objets fragiles." },
+  { "input": "Les téléphones doivent être mis en mode silencieux.", "output": "Mettez votre téléphone en silencieux." },
+  { "input": "Les sacs volumineux doivent être déposés au vestiaire.", "output": "Laissez les gros sacs au vestiaire." },
+  { "input": "Les photos avec flash sont interdites.", "output": "Ne prenez pas de photos avec le flash." },
+
+  { "input": "Les inscriptions aux activités sportives doivent être renouvelées chaque année.", "output": "Inscrivez-vous chaque année pour faire du sport." },
+  { "input": "Les équipements doivent être utilisés conformément aux règles de sécurité.", "output": "Utilisez les équipements comme indiqué." },
+  { "input": "Les vestiaires doivent être laissés propres après utilisation.", "output": "Laissez les vestiaires propres." },
+  { "input": "Les chaussures adaptées sont obligatoires pour certaines activités.", "output": "Mettez les bonnes chaussures pour faire du sport." },
+  { "input": "Les entraîneurs doivent être informés en cas de problème de santé.", "output": "Dites au coach si vous avez un problème de santé." },
+
+  { "input": "Les animaux sauvages ne doivent pas être nourris par les visiteurs.", "output": "Ne donnez pas à manger aux animaux sauvages." },
+  { "input": "Les sentiers balisés doivent être respectés.", "output": "Restez sur les chemins indiqués." },
+  { "input": "Les feux de camp sont interdits en période de sécheresse.", "output": "Ne faites pas de feu quand il fait très sec." },
+  { "input": "Les déchets doivent être ramenés avec soi.", "output": "Ne laissez pas vos déchets dans la nature." },
+  { "input": "Les zones protégées ne doivent pas être traversées.", "output": "Ne marchez pas dans les zones protégées." },
+
+
+  { "input": "Les usagers doivent vérifier l'exactitude des informations saisies avant de valider le formulaire.", "output": "Relisez bien vos informations avant de valider." },
+  { "input": "Les documents transmis seront examinés par le service compétent dans les meilleurs délais.", "output": "Le service regardera vos papiers bientôt." },
+  { "input": "Toute demande incomplète fera l'objet d'un rejet automatique.", "output": "Si vous oubliez des papiers, votre demande sera refusée." },
+  { "input": "Les horaires d'ouverture peuvent varier en fonction des jours fériés.", "output": "Les horaires changent les jours fériés." },
+  { "input": "Les usagers doivent respecter les consignes affichées dans les locaux.", "output": "Suivez les règles écrites dans le bâtiment." },
+
+  { "input": "Les voyageurs doivent se présenter en avance pour faciliter l'embarquement.", "output": "Arrivez en avance pour monter facilement." },
+  { "input": "Les retards peuvent entraîner la perte de votre réservation.", "output": "Si vous êtes en retard, vous pouvez perdre votre place." },
+  { "input": "Les animaux doivent être transportés dans des caisses adaptées.", "output": "Mettez votre animal dans une cage spéciale." },
+  { "input": "Les passagers doivent attacher leur ceinture pendant toute la durée du trajet.", "output": "Gardez votre ceinture attachée pendant tout le trajet." },
+  { "input": "Les objets encombrants doivent être signalés au personnel.", "output": "Dites au personnel si vous avez un gros objet." },
+
+  { "input": "Une hydratation insuffisante peut provoquer des maux de tête.", "output": "Si vous ne buvez pas assez, vous pouvez avoir mal à la tête." },
+  { "input": "Les consultations doivent être prises sur rendez-vous.", "output": "Prenez un rendez-vous pour voir le docteur." },
+  { "input": "Les traitements doivent être suivis conformément aux indications fournies.", "output": "Prenez vos médicaments comme on vous l'a dit." },
+  { "input": "Les analyses doivent être réalisées à jeun pour garantir leur fiabilité.", "output": "Ne mangez pas avant vos analyses." },
+  { "input": "Les symptômes doivent être décrits avec précision au professionnel de santé.", "output": "Expliquez bien ce que vous ressentez au docteur." },
+
+  { "input": "La protection des espèces menacées est une priorité nationale.", "output": "Il faut protéger les animaux en danger." },
+  { "input": "La réduction des déchets plastiques est un enjeu majeur pour l'environnement.", "output": "Il faut utiliser moins de plastique pour protéger la nature." },
+  { "input": "Les ressources naturelles doivent être utilisées de manière responsable.", "output": "Il faut utiliser les ressources sans les gâcher." },
+  { "input": "Les zones naturelles protégées doivent être respectées par les visiteurs.", "output": "Ne détruisez rien dans les zones protégées." },
+  { "input": "La pollution lumineuse perturbe les écosystèmes nocturnes.", "output": "Trop de lumière la nuit dérange les animaux." },
+
+  { "input": "Les décisions administratives doivent être motivées et communiquées par écrit.", "output": "L'administration doit expliquer ses décisions dans une lettre." },
+  { "input": "Les recours doivent être déposés dans les délais légaux.", "output": "Vous devez faire votre recours avant la date limite." },
+  { "input": "Les audiences peuvent être reportées en cas d'empêchement majeur.", "output": "L'audience peut être déplacée s'il y a un gros problème." },
+  { "input": "Les témoins doivent se présenter à l'heure indiquée sur la convocation.", "output": "Les témoins doivent arriver à l'heure." },
+  { "input": "Les pièces justificatives doivent être présentées en original.", "output": "Apportez les papiers originaux." },
+
+  { "input": "Les élèves doivent respecter les consignes de sécurité lors des activités sportives.", "output": "Les élèves doivent suivre les règles de sécurité pendant le sport." },
+  { "input": "Les devoirs doivent être rendus dans les délais fixés par l'enseignant.", "output": "Rendez vos devoirs à temps." },
+  { "input": "Les parents doivent informer l'école en cas d'absence de leur enfant.", "output": "Dites à l'école si votre enfant est absent." },
+  { "input": "Les sorties pédagogiques enrichissent les apprentissages des élèves.", "output": "Les sorties aident les élèves à apprendre." },
+  { "input": "Les manuels scolaires doivent être conservés en bon état.", "output": "Prenez soin de vos livres d'école." },
+
+  { "input": "Les habitants doivent respecter les règles de tri sélectif.", "output": "Triez vos déchets comme demandé." },
+  { "input": "Les encombrants doivent être déposés aux points de collecte prévus.", "output": "Déposez les gros objets à l'endroit prévu." },
+  { "input": "Les feux d'artifice sont interdits sans autorisation municipale.", "output": "Vous ne pouvez pas faire de feu d'artifice sans autorisation." },
+  { "input": "Les travaux doivent être réalisés dans le respect des horaires autorisés.", "output": "Faites les travaux seulement aux heures autorisées." },
+  { "input": "Les espaces publics doivent être utilisés de manière responsable.", "output": "Respectez les lieux publics." },
+
+  { "input": "Les salariés doivent signaler tout accident survenu sur le lieu de travail.", "output": "Dites à votre patron si vous avez un accident au travail." },
+  { "input": "Les congés doivent être demandés à l'avance.", "output": "Demandez vos congés avant." },
+  { "input": "Les réunions d'équipe permettent de coordonner les activités.", "output": "Les réunions servent à organiser le travail." },
+  { "input": "Les équipements de protection doivent être portés en permanence.", "output": "Portez toujours vos équipements de sécurité." },
+  { "input": "Les pauses doivent être respectées selon les horaires définis.", "output": "Prenez vos pauses aux heures prévues." },
+
+  { "input": "Les utilisateurs doivent mettre à jour leurs logiciels régulièrement.", "output": "Mettez vos logiciels à jour souvent." },
+  { "input": "Les mots de passe doivent rester confidentiels.", "output": "Ne donnez jamais votre mot de passe." },
+  { "input": "Les fichiers sensibles doivent être stockés dans des espaces sécurisés.", "output": "Rangez les fichiers importants dans un endroit sécurisé." },
+  { "input": "Les appareils doivent être éteints avant toute intervention technique.", "output": "Éteignez l'appareil avant de le réparer." },
+  { "input": "Les connexions non sécurisées peuvent exposer vos données.", "output": "Les connexions non sécurisées peuvent voler vos données." },
+
+  { "input": "Les factures doivent être conservées pour toute réclamation future.", "output": "Gardez vos factures pour plus tard." },
+  { "input": "Les paiements tardifs peuvent entraîner des pénalités.", "output": "Si vous payez en retard, vous devrez payer plus." },
+  { "input": "Les opérations bancaires doivent être vérifiées régulièrement.", "output": "Regardez souvent vos opérations bancaires." },
+  { "input": "Les prêts doivent être remboursés selon les échéances prévues.", "output": "Remboursez votre prêt aux dates prévues." },
+  { "input": "Les virements peuvent prendre plusieurs jours ouvrés.", "output": "Les virements peuvent mettre plusieurs jours." },
+
+  { "input": "Les locataires doivent prévenir le propriétaire avant tout départ.", "output": "Dites au propriétaire avant de partir." },
+  { "input": "Les réparations mineures sont à la charge du locataire.", "output": "Les petites réparations sont pour vous." },
+  { "input": "Les charges communes doivent être payées chaque mois.", "output": "Payez les charges tous les mois." },
+  { "input": "Les nuisances sonores doivent être limitées pour respecter le voisinage.", "output": "Ne faites pas trop de bruit pour respecter les voisins." },
+  { "input": "Les animaux ne doivent pas causer de dégradations dans le logement.", "output": "Votre animal ne doit rien abîmer." },
+
+  { "input": "Les visiteurs doivent respecter les règles du site touristique.", "output": "Suivez les règles du lieu touristique." },
+  { "input": "Les zones interdites ne doivent pas être franchies.", "output": "Ne passez pas dans les zones interdites." },
+  { "input": "Les objets personnels doivent être surveillés en permanence.", "output": "Gardez vos affaires avec vous." },
+  { "input": "Les consignes de sécurité doivent être suivies lors des visites guidées.", "output": "Suivez les règles pendant la visite." },
+  { "input": "Les photos peuvent être interdites dans certaines zones.", "output": "Parfois, vous ne pouvez pas prendre de photos." },
+
+  { "input": "Les inscriptions aux activités doivent être effectuées avant la date limite.", "output": "Inscrivez-vous avant la date limite." },
+  { "input": "Les équipements doivent être utilisés avec précaution.", "output": "Faites attention quand vous utilisez les équipements." },
+  { "input": "Les vestiaires doivent être laissés propres après utilisation.", "output": "Laissez les vestiaires propres." },
+  { "input": "Les chaussures adaptées sont obligatoires pour certaines activités.", "output": "Mettez les bonnes chaussures pour l'activité." },
+  { "input": "Les entraîneurs doivent être informés en cas de problème.", "output": "Dites au coach si vous avez un problème." },
+
+  { "input": "Les animaux sauvages ne doivent pas être approchés.", "output": "Ne vous approchez pas des animaux sauvages." },
+  { "input": "Les sentiers balisés doivent être respectés.", "output": "Restez sur les chemins indiqués." },
+  { "input": "Les feux sont interdits dans les zones forestières.", "output": "Ne faites pas de feu dans la forêt." },
+  { "input": "Les déchets doivent être ramenés avec soi.", "output": "Ne laissez pas vos déchets dans la nature." },
+  { "input": "Les zones protégées ne doivent pas être traversées.", "output": "Ne marchez pas dans les zones protégées." },
+
+  { "input": "Les participants doivent respecter les horaires des ateliers.", "output": "Arrivez à l'heure pour les ateliers." },
+  { "input": "Les inscriptions doivent être confirmées par e-mail.", "output": "Vous recevrez un e-mail pour confirmer votre inscription." },
+  { "input": "Les documents doivent être imprimés avant la séance.", "output": "Imprimez les documents avant la séance." },
+  { "input": "Les consignes seront expliquées en début de session.", "output": "On vous expliquera les règles au début." },
+  { "input": "Les participants doivent apporter leur propre matériel.", "output": "Apportez votre matériel." },
+
+  { "input": "Les colis doivent être récupérés dans un délai de quinze jours.", "output": "Prenez votre colis dans les 15 jours." },
+  { "input": "Les retours doivent être effectués dans leur emballage d'origine.", "output": "Renvoyez l'objet dans sa boîte d'origine." },
+  { "input": "Les frais de retour peuvent être à la charge du client.", "output": "Vous devrez peut-être payer pour renvoyer l'objet." },
+  { "input": "Les livraisons peuvent être retardées en cas d'intempéries.", "output": "Le mauvais temps peut retarder la livraison." },
+  { "input": "Les commandes doivent être vérifiées dès réception.", "output": "Vérifiez votre commande quand vous la recevez." },
+
+  { "input": "Les inscriptions aux concours doivent être validées avant la date limite.", "output": "Inscrivez-vous au concours avant la date limite." },
+  { "input": "Les candidats doivent fournir une pièce d'identité valide.", "output": "Apportez une carte d'identité valable." },
+  { "input": "Les épreuves doivent être passées dans le calme.", "output": "Soyez calme pendant les épreuves." },
+  { "input": "Les résultats seront publiés sur le site officiel.", "output": "Les résultats seront sur le site." },
+  { "input": "Les réclamations doivent être envoyées par écrit.", "output": "Écrivez une lettre si vous voulez faire une réclamation." },
+
+  { "input": "Les usagers doivent respecter les règles de sécurité incendie.", "output": "Suivez les règles contre les incendies." },
+  { "input": "Les issues de secours doivent rester dégagées.", "output": "Ne bloquez pas les sorties de secours." },
+  { "input": "Les extincteurs doivent être accessibles en permanence.", "output": "Les extincteurs doivent être faciles à atteindre." },
+  { "input": "Les alarmes incendie doivent être testées régulièrement.", "output": "On teste souvent les alarmes incendie." },
+  { "input": "Les consignes d'évacuation doivent être connues de tous.", "output": "Apprenez les règles pour sortir en cas d'urgence." },
+
+  { "input": "Les appareils doivent être manipulés avec précaution.", "output": "Faites attention quand vous utilisez les appareils." },
+  { "input": "Les câbles ne doivent pas être tirés brusquement.", "output": "Ne tirez pas fort sur les câbles." },
+  { "input": "Les batteries doivent être rechargées dans des zones prévues.", "output": "Rechargez les batteries dans les endroits autorisés." },
+  { "input": "Les appareils défectueux doivent être signalés immédiatement.", "output": "Dites tout de suite si un appareil est cassé." },
+  { "input": "Les notices doivent être lues avant utilisation.", "output": "Lisez la notice avant d'utiliser l'appareil." },
+
+  { "input": "Les inscriptions aux bibliothèques nécessitent un justificatif de domicile.", "output": "Apportez un papier qui montre où vous habitez pour vous inscrire." },
+  { "input": "Les livres doivent être rendus à la date prévue.", "output": "Rendez les livres à temps." },
+  { "input": "Les documents abîmés doivent être signalés au personnel.", "output": "Dites si un livre est abîmé." },
+  { "input": "Les espaces de lecture doivent rester silencieux.", "output": "Ne faites pas de bruit dans la bibliothèque." },
+  { "input": "Les ordinateurs doivent être utilisés pour un temps limité.", "output": "Vous pouvez utiliser les ordinateurs seulement un certain temps." },
+
+  { "input": "Les inscriptions aux cours doivent être confirmées par paiement.", "output": "Payez pour confirmer votre inscription au cours." },
+  { "input": "Les absences doivent être justifiées auprès de l'organisateur.", "output": "Expliquez pourquoi vous êtes absent." },
+  { "input": "Les supports pédagogiques seront fournis en début de formation.", "output": "On vous donnera les documents au début." },
+  { "input": "Les exercices doivent être réalisés avant la séance suivante.", "output": "Faites vos exercices avant le prochain cours." },
+  { "input": "Les participants doivent respecter le matériel mis à disposition.", "output": "Prenez soin du matériel." },
+
+  { "input": "Les visiteurs doivent présenter leur billet à l'entrée.", "output": "Montrez votre billet pour entrer." },
+  { "input": "Les zones réservées au personnel sont interdites au public.", "output": "Vous ne pouvez pas entrer dans les zones pour le personnel." },
+  { "input": "Les objets trouvés doivent être déposés à l'accueil.", "output": "Apportez les objets trouvés à l'accueil." },
+  { "input": "Les consignes doivent être respectées pour garantir la sécurité.", "output": "Suivez les règles pour rester en sécurité." },
+  { "input": "Les files d'attente doivent être respectées.", "output": "Faites la queue comme tout le monde." },
+
+
+  { "input": "Les usagers doivent vérifier que toutes les pièces justificatives sont jointes avant l'envoi du dossier.", "output": "Vérifiez que vous avez mis tous les papiers avant d'envoyer le dossier." },
+  { "input": "Les demandes seront traitées par ordre d'arrivée et dans la limite des capacités du service.", "output": "On traite les demandes dans l'ordre où elles arrivent." },
+  { "input": "Les informations fournies doivent être exactes afin d'éviter tout retard dans le traitement.", "output": "Écrivez des informations vraies pour éviter les retards." },
+  { "input": "Les usagers doivent respecter les délais indiqués dans la notification.", "output": "Respectez les dates écrites dans la lettre." },
+  { "input": "Les documents doivent être transmis en format numérique lisible.", "output": "Envoyez des documents numériques faciles à lire." },
+
+  { "input": "Les voyageurs doivent se présenter au quai au moins dix minutes avant le départ.", "output": "Arrivez au quai dix minutes avant le départ." },
+  { "input": "Les bagages volumineux doivent être placés dans les espaces prévus à cet effet.", "output": "Mettez les gros bagages dans les endroits prévus." },
+  { "input": "Les passagers doivent respecter les annonces diffusées par le personnel.", "output": "Écoutez et suivez les annonces du personnel." },
+  { "input": "Les billets doivent être conservés jusqu'à la fin du trajet.", "output": "Gardez votre billet jusqu'à la fin du voyage." },
+  { "input": "Les animaux doivent être tenus en laisse dans les transports publics.", "output": "Tenez votre animal en laisse dans les transports." },
+
+  { "input": "Une alimentation trop riche en graisses peut entraîner des problèmes de santé.", "output": "Manger trop gras peut vous rendre malade." },
+  { "input": "Les rendez-vous doivent être annulés au moins 24 heures à l'avance.", "output": "Annulez votre rendez-vous un jour avant." },
+  { "input": "Les médicaments périmés ne doivent plus être consommés.", "output": "Ne prenez pas de médicaments périmés." },
+  { "input": "Les analyses doivent être réalisées dans un laboratoire agréé.", "output": "Faites vos analyses dans un laboratoire autorisé." },
+  { "input": "Les symptômes inhabituels doivent être signalés rapidement.", "output": "Dites vite si vous avez des symptômes étranges." },
+
+  { "input": "La protection des milieux naturels est essentielle pour préserver la biodiversité.", "output": "Il faut protéger la nature pour garder les animaux et les plantes." },
+  { "input": "Les déchets plastiques mettent plusieurs centaines d'années à se décomposer.", "output": "Le plastique met très longtemps à disparaître." },
+  { "input": "Les ressources en eau doivent être utilisées avec modération.", "output": "Ne gaspillez pas l'eau." },
+  { "input": "Les zones humides jouent un rôle important dans l'équilibre écologique.", "output": "Les marais sont importants pour la nature." },
+  { "input": "La pollution sonore peut perturber la faune locale.", "output": "Le bruit dérange les animaux." },
+
+  { "input": "Les décisions administratives doivent être communiquées dans un délai raisonnable.", "output": "L'administration doit vous répondre dans un délai normal." },
+  { "input": "Les recours doivent être formulés par écrit et motivés.", "output": "Écrivez une lettre pour faire un recours et expliquez pourquoi." },
+  { "input": "Les audiences peuvent être reportées en cas de circonstances exceptionnelles.", "output": "L'audience peut être déplacée s'il y a un gros problème." },
+  { "input": "Les témoins doivent répondre aux convocations officielles.", "output": "Les témoins doivent venir quand on les appelle." },
+  { "input": "Les documents doivent être présentés en version originale lors des contrôles.", "output": "Apportez les papiers originaux pour les contrôles." },
+
+  { "input": "Les élèves doivent participer activement aux activités proposées.", "output": "Les élèves doivent participer aux activités." },
+  { "input": "Les parents doivent signer les documents transmis par l'établissement.", "output": "Les parents doivent signer les papiers de l'école." },
+  { "input": "Les enseignants doivent être informés de tout changement de situation familiale.", "output": "Dites aux professeurs si votre situation change." },
+  { "input": "Les examens doivent être passés dans le respect des règles établies.", "output": "Respectez les règles pendant les examens." },
+  { "input": "Les retards répétés peuvent entraîner des sanctions scolaires.", "output": "Arriver souvent en retard peut entraîner des punitions." },
+
+  { "input": "Les habitants doivent respecter les règles de propreté dans les espaces publics.", "output": "Gardez les lieux publics propres." },
+  { "input": "Les encombrants doivent être déposés uniquement aux dates prévues.", "output": "Mettez les gros objets dehors seulement le jour prévu." },
+  { "input": "Les feux de jardin sont interdits sans autorisation.", "output": "Vous ne pouvez pas faire de feu dans votre jardin sans autorisation." },
+  { "input": "Les travaux doivent respecter les horaires autorisés par la mairie.", "output": "Faites les travaux aux heures autorisées." },
+  { "input": "Les nuisances sonores doivent être limitées pour préserver la tranquillité du voisinage.", "output": "Ne faites pas trop de bruit pour respecter les voisins." },
+
+  { "input": "Les salariés doivent respecter les consignes de sécurité en toutes circonstances.", "output": "Suivez toujours les règles de sécurité au travail." },
+  { "input": "Les congés doivent être validés par la hiérarchie avant d'être pris.", "output": "Votre patron doit dire oui avant que vous preniez vos congés." },
+  { "input": "Les réunions permettent de coordonner les actions de l'équipe.", "output": "Les réunions servent à organiser le travail." },
+  { "input": "Les équipements de protection doivent être portés dans les zones à risque.", "output": "Portez vos protections dans les zones dangereuses." },
+  { "input": "Les incidents doivent être signalés immédiatement au responsable.", "output": "Dites tout de suite au responsable s'il y a un problème." },
+
+  { "input": "Les utilisateurs doivent protéger leurs données personnelles en ligne.", "output": "Faites attention à vos informations sur Internet." },
+  { "input": "Les fichiers téléchargés doivent provenir de sources fiables.", "output": "Téléchargez seulement des fichiers sûrs." },
+  { "input": "Les appareils doivent être verrouillés lorsqu'ils ne sont pas utilisés.", "output": "Verrouillez votre appareil quand vous ne l'utilisez pas." },
+  { "input": "Les connexions Wi-Fi publiques peuvent présenter des risques.", "output": "Le Wi-Fi public peut être dangereux pour vos données." },
+  { "input": "Les sauvegardes régulières permettent d'éviter la perte de données.", "output": "Sauvegardez vos fichiers pour ne pas les perdre." },
+
+  { "input": "Les factures doivent être réglées avant la date d'échéance.", "output": "Payez vos factures avant la date limite." },
+  { "input": "Les paiements en plusieurs fois peuvent entraîner des frais supplémentaires.", "output": "Payer en plusieurs fois peut coûter plus cher." },
+  { "input": "Les relevés bancaires doivent être vérifiés régulièrement.", "output": "Regardez souvent vos relevés de banque." },
+  { "input": "Les prêts doivent être remboursés selon les modalités prévues.", "output": "Remboursez votre prêt comme prévu." },
+  { "input": "Les opérations suspectes doivent être signalées à la banque.", "output": "Dites à la banque si vous voyez quelque chose d'étrange." },
+
+  { "input": "Les locataires doivent entretenir leur logement correctement.", "output": "Prenez soin de votre logement." },
+  { "input": "Les réparations urgentes doivent être effectuées rapidement.", "output": "Réparez vite ce qui est dangereux." },
+  { "input": "Les charges doivent être payées chaque mois.", "output": "Payez les charges tous les mois." },
+  { "input": "Les parties communes doivent rester propres.", "output": "Gardez les couloirs et escaliers propres." },
+  { "input": "Les travaux dans le logement doivent être autorisés par le propriétaire.", "output": "Demandez au propriétaire avant de faire des travaux." },
+
+  { "input": "Les visiteurs doivent respecter les règles du musée.", "output": "Suivez les règles du musée." },
+  { "input": "Les zones interdites ne doivent pas être franchies.", "output": "Ne passez pas dans les zones interdites." },
+  { "input": "Les objets personnels doivent être surveillés en permanence.", "output": "Gardez vos affaires avec vous." },
+  { "input": "Les consignes de sécurité doivent être suivies lors des visites guidées.", "output": "Suivez les règles pendant la visite." },
+  { "input": "Les photos peuvent être interdites dans certaines zones.", "output": "Parfois, vous ne pouvez pas prendre de photos." },
+
+  { "input": "Les inscriptions aux activités doivent être effectuées avant la date limite.", "output": "Inscrivez-vous avant la date limite." },
+  { "input": "Les équipements doivent être utilisés avec précaution.", "output": "Faites attention quand vous utilisez les équipements." },
+  { "input": "Les vestiaires doivent être laissés propres après utilisation.", "output": "Laissez les vestiaires propres." },
+  { "input": "Les chaussures adaptées sont obligatoires pour certaines activités.", "output": "Mettez les bonnes chaussures pour l'activité." },
+  { "input": "Les entraîneurs doivent être informés en cas de problème.", "output": "Dites au coach si vous avez un problème." },
+
+  { "input": "Les animaux sauvages ne doivent pas être approchés.", "output": "Ne vous approchez pas des animaux sauvages." },
+  { "input": "Les sentiers balisés doivent être respectés.", "output": "Restez sur les chemins indiqués." },
+  { "input": "Les feux sont interdits dans les zones forestières.", "output": "Ne faites pas de feu dans la forêt." },
+  { "input": "Les déchets doivent être ramenés avec soi.", "output": "Ne laissez pas vos déchets dans la nature." },
+  { "input": "Les zones protégées ne doivent pas être traversées.", "output": "Ne marchez pas dans les zones protégées." },
+
+  { "input": "Les participants doivent respecter les horaires des ateliers.", "output": "Arrivez à l'heure pour les ateliers." },
+  { "input": "Les inscriptions doivent être confirmées par e-mail.", "output": "Vous recevrez un e-mail pour confirmer votre inscription." },
+  { "input": "Les documents doivent être imprimés avant la séance.", "output": "Imprimez les documents avant la séance." },
+  { "input": "Les consignes seront expliquées en début de session.", "output": "On vous expliquera les règles au début." },
+  { "input": "Les participants doivent apporter leur propre matériel.", "output": "Apportez votre matériel." },
+
+  { "input": "Les colis doivent être récupérés dans un délai de quinze jours.", "output": "Prenez votre colis dans les 15 jours." },
+  { "input": "Les retours doivent être effectués dans leur emballage d'origine.", "output": "Renvoyez l'objet dans sa boîte d'origine." },
+  { "input": "Les frais de retour peuvent être à la charge du client.", "output": "Vous devrez peut-être payer pour renvoyer l'objet." },
+  { "input": "Les livraisons peuvent être retardées en cas d'intempéries.", "output": "Le mauvais temps peut retarder la livraison." },
+  { "input": "Les commandes doivent être vérifiées dès réception.", "output": "Vérifiez votre commande quand vous la recevez." },
+
+  { "input": "Les inscriptions aux concours doivent être validées avant la date limite.", "output": "Inscrivez-vous au concours avant la date limite." },
+  { "input": "Les candidats doivent fournir une pièce d'identité valide.", "output": "Apportez une carte d'identité valable." },
+  { "input": "Les épreuves doivent être passées dans le calme.", "output": "Soyez calme pendant les épreuves." },
+  { "input": "Les résultats seront publiés sur le site officiel.", "output": "Les résultats seront sur le site." },
+  { "input": "Les réclamations doivent être envoyées par écrit.", "output": "Écrivez une lettre si vous voulez faire une réclamation." },
+
+  { "input": "Les usagers doivent respecter les règles de sécurité incendie.", "output": "Suivez les règles contre les incendies." },
+  { "input": "Les issues de secours doivent rester dégagées.", "output": "Ne bloquez pas les sorties de secours." },
+  { "input": "Les extincteurs doivent être accessibles en permanence.", "output": "Les extincteurs doivent être faciles à atteindre." },
+  { "input": "Les alarmes incendie doivent être testées régulièrement.", "output": "On teste souvent les alarmes incendie." },
+  { "input": "Les consignes d'évacuation doivent être connues de tous.", "output": "Apprenez les règles pour sortir en cas d'urgence." }
+
+]
+
+
+    
+
+
